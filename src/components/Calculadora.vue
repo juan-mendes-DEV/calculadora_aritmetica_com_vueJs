@@ -55,7 +55,7 @@ import { parse } from 'vue/compiler-sfc';
       text-align: center;
       margin-bottom: 10px;
       margin-top: 10px;
-      color: rgb(0, 255, 21);
+      color: rgb(0, 255, 20);
       font-weight: bold;
       font-size: 25px;
       position: relative;
